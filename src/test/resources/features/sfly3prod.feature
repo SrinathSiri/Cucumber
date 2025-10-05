@@ -1,4 +1,4 @@
-Feature: SFLY3 Production Login using Cucumber
+Feature: SFLY3 Production Login using Cucumber BDD
 
   Scenario: Login
     Given Open browser and enter application url
